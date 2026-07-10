@@ -56,54 +56,6 @@ AI-Resume-Analyzer/
 ├── requirements.txt
 ├── README.md
 └── sample_resume.pdf (optional)
-```
-
----
-
-## 🚀 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/AI-Resume-Analyzer.git
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd AI-Resume-Analyzer
-```
-
-### 3. Create a virtual environment (Optional)
-
-**Windows**
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-**Linux / macOS**
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### 4. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 5. Run the application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## 📦 Required Libraries
 
 ```text
