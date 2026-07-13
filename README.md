@@ -1,7 +1,6 @@
 # 🤖 AI Resume Analyzer
 
 An intelligent Resume Analyzer built with **Python** and **Streamlit** that compares a candidate's resume with a job description using **TF-IDF Vectorization** and **Cosine Similarity**. The application calculates a job match percentage and provides instant feedback based on the similarity score.
-
 ---
 
 ## 📌 Features
